@@ -1,4 +1,9 @@
 # Correlation and regression for data analysis
+# Ex no 3
+# Date:
+# Name:YG Srinath 
+# Register.no:24900665
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
